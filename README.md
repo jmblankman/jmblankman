@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joey Blankman
-- 👀 I’m interested in Research and Social Justice
+- 👀 I’m interested in research and social justice
 - 🌱 I’m currently learning about statistics, programming, and how to record music
 - 💞️ I’m looking to collaborate on research projects or projects involving database management 
 - 📫 How to reach me: Send me an email at jmblankman@gmail.com
