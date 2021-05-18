@@ -4,5 +4,5 @@ Hello! I’m Joey Blankman,
 </br>I’m looking to collaborate on research or projects involving database management / schema design
 </br>How to reach me: Send me an email at jmblankman@gmail.com
 <div>
-     This github is currently under construction - Most of my to-do items are listed in the "Notes" sections
+     This github is currently under construction - most of the to-do items are listed in the "Notes" sections
 </br> 
